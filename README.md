@@ -1,3 +1,10 @@
+# Dekamond App Demo
+
+## Live Preview
+
+You can view the deployed application here:  
+👉 [dekamond-app-demo.vercel.app](https://dekamond-app-demo.vercel.app/)
+
 ## Setup and Installation
 
 1.  **Install dependencies:**
